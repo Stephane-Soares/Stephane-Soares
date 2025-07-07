@@ -1,16 +1,95 @@
-## Hi there 👋
+# 👩🏻‍💻 Stephane Soares
+**`Analista de Dados`**
 
-<!--
-**Stephane-Soares/Stephane-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Stephane Soares da Silva, tenho 30 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no NAVE Rio, com formação técnica em Multimídias e sou graduada em Gestão Financeira pela UNESA. Atualmente, estou cursando Pós-Graduação em Big Data, Analytics e BI Aplicados aos Negócios na UNESA.
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://github.com/Stephane-Soares?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Stephane-Soares?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Stephane-Soares?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Stephane-Soares?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/Stephane-Soares?Simple-View-Counter">
+        <img 
+            alt="Visitantes" 
+            title="Profile views" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Stephane-Soares?color=purple&labelColor=730d73&style=for-the-badge&logo=eye&label=Visitantes&logoColor=white"
+        />
+       </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img
+    align="left"
+    alt="Excel"
+    title="Excel"
+    Width="30px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"
+ /> 
+<img 
+    align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software" 
+/> 
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"
+/>
+<img 
+    align="left" 
+    alt="R Linguagem" 
+    title="R Linguagem"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"
+/>  
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas    
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200px" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Stephane-Soares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
