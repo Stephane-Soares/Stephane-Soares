@@ -41,11 +41,11 @@ Me chamo Stephane Soares da Silva, tenho 30 anos e sou natural do Rio de Janeiro
  /> 
 <img 
     align="left" 
-    alt="Google Cloud" 
-    title="Google Cloud"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+    src="https://img.icons8.com/fluency/48/sql.png"
 />
 <img 
     align="left" 
