@@ -87,7 +87,7 @@ Me chamo Stephane Soares da Silva, tenho 30 anos e sou natural do Rio de Janeiro
 ### 📫Conecte-se comigo:
 
 <p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/stephanesoaress-" >
+    <a href="https://linkedin.com/in/stephanesoaress-" >
         <img 
             alt="www.linkedin.com/in/stephanesoaress-"
             title="Linkedin"
